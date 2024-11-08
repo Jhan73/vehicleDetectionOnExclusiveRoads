@@ -1,0 +1,9 @@
+path: vehicles/
+train: images/train
+val: images/validation
+test: images/test
+
+names:
+  0: Autorizado
+  1: No autorizado
+
